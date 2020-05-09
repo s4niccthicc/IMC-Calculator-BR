@@ -19,7 +19,7 @@ Veja só isso!
 ![](examples_gifs/IMCC-EX2.gif)
 ### Uma perguntinha! Pode digitar os números quebrados com vírgula?
 Infelizmente não, a linguagem de programação que utilizei, só permite com . nessa situação
-Quer que eu prove!? É pra já!\n
+Quer que eu prove!? É pra já!
 ![](examples_gifs/IMCC-IS1.gif)
 ## Agradeço a vcs
 * [Java](https://www.java.com/pt_BR/) - Linguagem de programação responsável pelo programa
