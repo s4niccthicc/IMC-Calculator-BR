@@ -21,6 +21,8 @@ Veja só isso!
 Infelizmente não, a linguagem de programação que utilizei, só permite com . nessa situação
 Quer que eu prove!? É pra já!
 ![](examples_gifs/IMCC-IS1.gif)
+### É projeto acadêmico ou algo assim?
+Não, fiz por diversão mesmo...
 ## Agradeço a vcs
 * [Java](https://www.java.com/pt_BR/) - Linguagem de programação responsável pelo programa
 * [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/) - Minha IDE de Java preferida!
