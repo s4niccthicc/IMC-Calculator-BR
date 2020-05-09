@@ -10,16 +10,17 @@ claro que o cálculo na prática mesmo é fácil mas, é melhor assim não acha?
 ### Tá, mas como usa?
 Simples demais! O IMC é baseado no peso e na altura né? Então, digite seu peso e altura 
 e pressione o botão "Verificar o IMC", desse jeito, aparecerá na tela o resultado e pronto!
-Veja por sí mesmo!\n
-<img src="examples_gifs/IMCC-EX1.gif" height="350" width="350">
+Veja por sí mesmo!
+
+![](examples_gifs/IMCC-EX1.gif)
 ### Ok, mas e onde eu posso encontrar a tabela, na internet?
 Não precisa, o programa também tem o sistema de ver a tabela na sua frente, ou sua tela
-Veja só isso!\n
-<img src="examples_gifs/IMCC-EX2.gif" height="350" width="350">
+Veja só isso!
+![](examples_gifs/IMCC-EX2.gif)
 ### Uma perguntinha! Pode digitar os números quebrados com vírgula?
 Infelizmente não, a linguagem de programação que utilizei, só permite com . nessa situação
 Quer que eu prove!? É pra já!\n
-<img src="examples_gifs/IMCC-IS1.gif" height="350" width="350">
+![](examples_gifs/IMCC-IS1.gif)
 ## Agradeço a vcs
 * [Java](https://www.java.com/pt_BR/) - Linguagem de programação responsável pelo programa
 * [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/) - Minha IDE de Java preferida!
